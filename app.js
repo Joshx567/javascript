@@ -68,15 +68,18 @@
 //     }
 // }
 // ------------------------------------------
-let x = 100;
-if(true)
-{
-    if(true)
-    {
-        if(true)
-        {
-            console.log('1: ',x);
-        }
-    }
-}
-
+// let x = 100;
+// if(true){
+//     if(true){
+//         if(true){
+//             if(true){
+//                 console.log('1: ',x);
+//             }
+//         }
+//     }
+// }
+// ------------------------------------------
+let x = 10; 
+console.log('1:',x);
+x = 'HOLA';
+console.log('2:',x);
