@@ -52,17 +52,31 @@
 // const PI = 3.14;    
 // x = 10;
 // ------------------------------------------------------- ambito de bloque
-let a=10;
-let b=20;
-let c;
 
-if(a<b)
+//------------------------------------------
+// let a=10;
+// let b=20;
+// let c;
+
+// if(a<b)
+// {
+//     let x = 'Hola mundo';
+//     console.log('1: ', x);
+//     if(a == '10')
+//     {
+//         console.log('2: ', x);
+//     }
+// }
+// ------------------------------------------
+let x = 100;
+if(true)
 {
-    let x = 'Hola mundo';
-    console.log('1: ', x);
-    if(a == '10')
+    if(true)
     {
-        console.log('2: ', x);
+        if(true)
+        {
+            console.log('1: ',x);
+        }
     }
 }
 
